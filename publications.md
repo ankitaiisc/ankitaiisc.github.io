@@ -16,7 +16,7 @@
       <a href="https://www.aclweb.org/anthology/S19-2189.pdf">  PDF</a></li>
 </ul>
 
-### Computational Methods for Cinical Inference
+### Computational Methods for Clinical Inference
 <ul>
   <li>Knowledge Directed Multi-task Framework for Natural Language Inference in Clinical Domain.<br/>
       Sahil Chopra, <b>Ankita Gupta</b>, Anupama Kaushik<br/>
