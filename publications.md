@@ -5,9 +5,6 @@
   <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.<br/>
     arxiv preprint, 2022.</li>
-  <li>Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments.<br/>
-      Katherine A. Keith, <b>Ankita Gupta</b>, Erica Cai, Brendan O'Connor, and Douglas Rice.<br/>
-      Abstract presented at <a href="https://tada2022.org/">New Directions in Analyzing Text as Data (TADA 2022).</a></li>
   <li>Examining Political Rhetoric with Epistemic Stance Detection.<br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
       In Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS) at EMNLP, 2022.<br/>
@@ -40,6 +37,10 @@
 
 ## Other Publications
 <ul>
+<li>Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments.<br/>
+      Katherine A. Keith, <b>Ankita Gupta</b>, Erica Cai, Brendan O'Connor, and Douglas Rice.<br/>
+      Abstract presented at <a href="https://tada2022.org/">New Directions in Analyzing Text as Data (TADA 2022).</a></li>
+  
 <li><a href="https://arxiv.org/abs/2210.13746">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
       Marzena Karpinska, Nishant Raj, Katherine Thai, Yixiao Song, <b>Ankita Gupta</b>, Mohit Iyyer<br/>
       In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.<br/></li>
