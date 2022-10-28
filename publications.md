@@ -5,7 +5,8 @@
 <ul>
   <li>Examining Political Rhetoric with Epistemic Stance Detection.<br/>
       Ankita Gupta, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      In Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS) at EMNLP, 2022.
+      In Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS) at EMNLP, 2022.<br/>
+    Forthcoming</li>
   <li>Ensemble Architecture for Fine-Tuned Propaganda Detection in News Articles.<br/>
       Mayank Raj, Ajay Jaiswal, <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Vertika Srivastava, Yeon Hyang Kim<br/>
       In Proceedings of the Fourteenth Workshop on Semantic Evaluation, 2020<br/>
