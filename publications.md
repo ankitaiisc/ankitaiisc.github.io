@@ -1,4 +1,7 @@
-# Publications
+# Research
+I am broadly interested in computational social science, misinformation detection and fact-verification, causal inference, learning from limited data, language understanding and information extraction (who did what to whom).
+
+<a href="https://scholar.google.co.in/citations?user=7nq1kBMAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Ankita-Gupta/2110760579">Semantic Scholar</a>
 
 ## Selected Publications
 <ul>
