@@ -25,6 +25,7 @@ google_analytics: true
 header_pages:
  - research.md
  - cv.md
+ - blogs.md
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
