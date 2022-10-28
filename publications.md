@@ -42,7 +42,7 @@
 <ul>
 <li><a href="https://arxiv.org/abs/2210.13746">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
       Marzena Karpinska, Nishant Raj, Katherine Thai, Yixiao Song, <b>Ankita Gupta</b>, Mohit Iyyer<br/>
-      Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.<br/></li>
+      In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.<br/></li>
   
 <li><a href="https://www.aclweb.org/anthology/2020.semeval-1.236.pdf">Ensemble Architecture for Fine-Tuned Propaganda Detection in News Articles.</a><br/>
       Mayank Raj, Ajay Jaiswal, <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Vertika Srivastava, Yeon Hyang Kim<br/>
