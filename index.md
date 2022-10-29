@@ -12,8 +12,7 @@
 <table style="width:150%">
   <tr>
     <td>Fall 2022</td>
-  	<td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Wenlong Zhao and Dmitry Petrov. <br/>
-      If you have speaker recommendations, fill them <a href="https://forms.gle/7t8rZzwYepxuShKM8">here</a>!</td>
+  	<td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst <br/>with Wenlong Zhao and Dmitry Petrov. If you have speaker recommendations, fill them <a href="https://forms.gle/7t8rZzwYepxuShKM8">here</a>!</td>
   </tr>
   <tr>
     <td>May 2022</td>
