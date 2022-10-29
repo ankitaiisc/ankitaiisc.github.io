@@ -17,11 +17,11 @@ I am broadly interested in computational social science, misinformation detectio
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
       Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a></li>
 
-  <li><a href="https://www.aclweb.org/anthology/S19-2204.pdf"> Question factuality and answer veracity prediction in community forums.</a><br/>
+  <li><a href="https://www.aclweb.org/anthology/S19-2204.pdf"> Question Factuality and Answer Veracity Prediction in Community Forums.</a><br/>
       <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Divya Prakash, RR Rohit, Vertika Srivastava, Yeon Hyang Kim<br/>
       Proceedings of the 13th International Workshop on Semantic Evaluation, 2019<br/></li>
 
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/8486644">An online power system stability monitoring system using convolutional neural networks.</a><br/>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/8486644">An Online Power System Stability Monitoring System using Convolutional Neural Networks.</a><br/>
       <b>Ankita Gupta</b>, Gurunath Gurrala, PS Sastry<br/>
       IEEE Transactions on Power Systems, 2018<br/></li>
   <li><a href="https://cps.iisc.ac.in/wp-content/uploads/2018/12/0249.pdf">Instability Prediction in Power Systems using Recurrent Neural Networks.</a><br/>
