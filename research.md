@@ -27,15 +27,6 @@ I am broadly interested in computational social science, misinformation detectio
   <li><a href="https://cps.iisc.ac.in/wp-content/uploads/2018/12/0249.pdf">Instability Prediction in Power Systems using Recurrent Neural Networks.</a><br/>
       <b>Ankita Gupta</b>, Gurunath Gurrala, Pidaparthy S Sastry<br/>
       IJCAI, 2017<br/></li>
-  
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/7584155">Optimal provision for enhanced consumer satisfaction and energy savings by an intelligent household energy management system.</a><br/>
-      <b>Ankita Gupta</b>, Bhanu Pratap Singh, Rajesh Kumar<br/>
-      2016 IEEE 6th International Conference on Power Systems (ICPS)<br/>
-  </li>
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/7117653">Realization of Load based pricing with integration of renewable generation for a household.</a><br/>
-      <b>Ankita Gupta</b>, Rajesh Kumar<br/>
-      2014 6th IEEE Power India International Conference (PIICON)<br/>
-  </li>
 </ul>
 
 ## Other Publications
