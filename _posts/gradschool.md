@@ -12,8 +12,9 @@
 <ul> 
   <li><a href="http://users.umiacs.umd.edu/~jbg/static/style.html">Jordan Boyd-Graber’s advice</a> on style conventions for scientific writings.</li>
   <li><a href="https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1"> Devi Parikh's advice</a> on writting effective rebuttals.</li>
+  <li><a href="https://twitter.com/random_walker/status/1581674801101303810?s=20&t=Z6zOt3X5fEhvTzpjaeCckA">Arvind Narayanan's tweet</a> on back to front editing.</li>
 </ul>
 
 ## Tools
 <ul>
-  <li> Are you an auditory learner? This <a href="https://www.naturalreaders.com/">app</a> may help! (no endorsements intended) I also sometimes use it to read aloud my own writing to help find the fluency flaws, repetitions and much more.
+  <li> Are you an auditory learner? This <a href="https://www.naturalreaders.com/">app</a> may help (and many more like this one, no endorsements intended). I find it useful to read aloud my own writing to find fluency flaws.
