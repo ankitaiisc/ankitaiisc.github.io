@@ -9,7 +9,7 @@
 <p align="justify"> I did my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was very fortunate to work with <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on power systems instability prediction.</p>
 
 ## Recent News
-<table style="width:150%">
+<table style="width:100%">
   <tr>
     <td>Fall 2022</td>
   	<td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst <br/>with Wenlong Zhao and Dmitry Petrov. If you have speaker recommendations, fill them <a href="https://forms.gle/7t8rZzwYepxuShKM8">here</a>!</td>
