@@ -49,4 +49,13 @@ I am broadly interested in computational social science, misinformation detectio
 <li><a href="https://www.aclweb.org/anthology/W19-5052.pdf">Knowledge Directed Multi-task Framework for Natural Language Inference in Clinical Domain.</a><br/>
       Sahil Chopra, <b>Ankita Gupta</b>, Anupama Kaushik<br/>
       Proceedings of the 18th BioNLP Workshop and Shared Task, 2019<br/></li>
+  
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/7584155">Optimal provision for enhanced consumer satisfaction and energy savings by an intelligent household energy management system.</a><br/>
+      <b>Ankita Gupta</b>, Bhanu Pratap Singh, Rajesh Kumar<br/>
+      2016 IEEE 6th International Conference on Power Systems (ICPS)<br/>
+  </li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/7117653">Realization of Load based pricing with integration of renewable generation for a household.</a><br/>
+      <b>Ankita Gupta</b>, Rajesh Kumar<br/>
+      2014 6th IEEE Power India International Conference (PIICON)<br/>
+  </li>
 </ul>
