@@ -18,7 +18,7 @@ I am broadly interested in computational social science, misinformation detectio
 
   <li><a href="https://www.aclweb.org/anthology/S19-2204.pdf"> Question Factuality and Answer Veracity Prediction in Community Forums.</a><br/>
       <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Divya Prakash, RR Rohit, Vertika Srivastava, Yeon Hyang Kim<br/>
-      Proceedings of the 13th International Workshop on Semantic Evaluation, 2019<br/></li>
+      Proceedings of the 13th International Workshop on Semantic Evaluation at NAACL HLT, 2019<br/></li>
 
   <li><a href="https://ieeexplore.ieee.org/abstract/document/8486644">An Online Power System Stability Monitoring System using Convolutional Neural Networks.</a><br/>
       <b>Ankita Gupta</b>, Gurunath Gurrala, PS Sastry<br/>
