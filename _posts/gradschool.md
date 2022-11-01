@@ -5,7 +5,7 @@
   <li><a href="https://s.tech.cornell.edu/phd-syllabus/">PhD Syllabus by Mor Naaman</a>. </br>
     Many interesting thoughts and perspectives from an advisor's point of view. Know it before you sign up!</li>
   <li> <a href="https://s.tech.cornell.edu/phd-syllabus/">Philip Guo’s Experience (PhD Grind)</a> </br>
-  An honest account of Phillip Guo’s PhD journey in Computer Science, a good read to understand the hiccups, challenges and the triumps of a PhD journey.</li>
+  An honest account of Phillip Guo’s Ph.D. journey in Computer Science, an excellent read to understand the hiccups, challenges, and triumphs of a Ph.D. journey.</li>
 </ul>
 
 ## Scientific Writing - Taming the Beast
@@ -17,4 +17,4 @@
 
 ## Tools
 <ul>
-  <li> Are you an auditory learner? This <a href="https://www.naturalreaders.com/">app</a> may help (and many more like this one, no endorsements intended). I find it useful to read aloud my own writing to find fluency flaws.
+  <li> Are you an auditory learner? This <a href="https://www.naturalreaders.com/">app</a> may help (and many more like this one, no endorsements intended). I find it helpful to read aloud my writings and find fluency flaws.
