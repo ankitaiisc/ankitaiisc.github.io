@@ -8,13 +8,13 @@ I am broadly interested in computational social science, misinformation detectio
   <li>Examining Political Rhetoric with Epistemic Stance Detection.<br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
       In Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS) at EMNLP, 2022.<br/>
-    Forthcoming</li>
+      [<a href="https://github.com/ankitaiisc/ankitaiisc.github.io/blob/main/images/NLP%2BCSS%20Poster.pdf">poster</a>]. </li>
   <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.<br/>
     arxiv preprint, 2022.</li>
   <li>PoliBelief: A Multi-Source Epistemic Stance Dataset for Analyzing Political Ideology.<br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a>
+      Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a><br/>
       [<a href="https://github.com/ankitaiisc/ankitaiisc.github.io/blob/main/images/TADA_v3_website.pdf">slides</a>]
   </li>
 
