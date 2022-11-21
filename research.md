@@ -14,7 +14,9 @@ I am broadly interested in computational social science, misinformation detectio
     arxiv preprint, 2022.</li>
   <li>PoliBelief: A Multi-Source Epistemic Stance Dataset for Analyzing Political Ideology.<br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a>[<a href="">slides</a>]</li>
+      Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a>
+      [<a href="https://github.com/ankitaiisc/ankitaiisc.github.io/blob/main/images/TADA_v3_website.pdf">slides</a>]
+  </li>
 
   <li><a href="https://www.aclweb.org/anthology/S19-2204.pdf"> Question Factuality and Answer Veracity Prediction in Community Forums.</a><br/>
       <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Divya Prakash, RR Rohit, Vertika Srivastava, Yeon Hyang Kim<br/>
