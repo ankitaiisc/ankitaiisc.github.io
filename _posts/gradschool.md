@@ -13,6 +13,7 @@
   <li><a href="http://users.umiacs.umd.edu/~jbg/static/style.html">Jordan Boyd-Graber’s advice</a> on style conventions for scientific writings.</li>
   <li><a href="https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1"> Devi Parikh's advice</a> on writting effective rebuttals.</li>
   <li><a href="https://twitter.com/random_walker/status/1581674801101303810?s=20&t=Z6zOt3X5fEhvTzpjaeCckA">Arvind Narayanan's tweet</a> on back to front editing.</li>
+  <li><a href="https://www.google.com/books/edition/Writing_Science/O1JpAgAAQBAJ?hl=en&gbpv=0">Writing Science by Joshua Schimel</a>.</li>
 </ul>
 
 ## Tools
