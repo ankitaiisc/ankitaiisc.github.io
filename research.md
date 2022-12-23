@@ -33,6 +33,10 @@ I am broadly interested in computational social science, misinformation detectio
 
 ## Other Publications
 <ul>
+  <li><a href="https://arxiv.org/abs/1908.11443">NarrativeTime: Dense Temporal Annotation on a Timeline.</a><br/>
+      Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
+      arxiv preprint, 2022.</li>
+  
 <li>Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments.<br/>
       Katherine A. Keith, <b>Ankita Gupta</b>, Erica Cai, Brendan O'Connor, and Douglas Rice.<br/>
       Abstract presented at <a href="https://tada2022.org/">New Directions in Analyzing Text as Data (TADA 2022).</a></li>
