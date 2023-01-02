@@ -5,7 +5,7 @@ I am broadly interested in computational social science, misinformation detectio
 
 ## Selected Publications
 <ul>
-  <li>Examining Political Rhetoric with Epistemic Stance Detection.<br/>
+  <li><a href="https://arxiv.org/pdf/2212.14486.pdf">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
       In Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS) at EMNLP, 2022.<br/>
       [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>]
