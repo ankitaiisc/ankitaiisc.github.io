@@ -11,6 +11,15 @@
 ## Recent News
 <table style="width:100;height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
   <tr>
+    <td>Jan 2023</td>
+  	<td>New paper on coreference annotation (ezCoref) to appear at EACL 2023. Check out our codebase <a href="https://github.com/gnkitaa/ezCoref">here</a>.</td>
+  </tr>
+  <tr>
+    <td>December 2022</td>
+  	<td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Wenlong Zhao and Dmitry Petrov. If you have speaker recommendations, fill them <a href="https://forms.gle/7t8rZzwYepxuShKM8">here</a>!</td>
+  </tr>
+  
+  <tr>
     <td>Fall 2022</td>
   	<td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Wenlong Zhao and Dmitry Petrov. If you have speaker recommendations, fill them <a href="https://forms.gle/7t8rZzwYepxuShKM8">here</a>!</td>
   </tr>
