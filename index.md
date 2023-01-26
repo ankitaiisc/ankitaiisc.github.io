@@ -12,11 +12,11 @@
 <table style="width:100;height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
   <tr>
     <td>Jan 2023</td>
-  	<td>New paper on coreference annotation (ezCoref) to appear at EACL 2023. Check out our codebase <a href="https://github.com/gnkitaa/ezCoref">here</a>.</td>
+    <td>New paper on coreference annotation (<a href="https://arxiv.org/abs/2210.07188">ezCoref</a>) to appear at EACL 2023. Check out our codebase <a href="https://github.com/gnkitaa/ezCoref">here</a>.</td>
   </tr>
   <tr>
     <td>Nov 2022</td>
-  	<td>New paper on analyzing political rhetoric via epistemic stances to appear at NLP+CSS, EMNLP 2022.</td>
+  	<td>New paper on <a href="https://arxiv.org/abs/2212.14486">analyzing political rhetoric via epistemic stances</a> to appear at NLP+CSS, EMNLP 2022.</td>
   </tr>
   
   <tr>
