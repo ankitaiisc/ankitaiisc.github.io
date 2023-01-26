@@ -15,7 +15,7 @@
   	<td>New paper on coreference annotation (ezCoref) to appear at EACL 2023. Check out our codebase <a href="https://github.com/gnkitaa/ezCoref">here</a>.</td>
   </tr>
   <tr>
-    <td>November 2022</td>
+    <td>Nov 2022</td>
   	<td>New paper on analyzing political rhetoric via epistemic stances to appear at NLP+CSS, EMNLP 2022.</td>
   </tr>
   
