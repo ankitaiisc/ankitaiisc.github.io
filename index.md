@@ -9,7 +9,10 @@
 <p align="justify"> I did my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was very fortunate to work with <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on power systems instability prediction.</p>
 
 ## Recent News
-<table style="width:100;height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
+<div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
+<table>
+<col width="100px">
+<col width="650px">
   <tr>
     <td>Jan 2023</td>
     <td>New paper on coreference annotation (<a href="https://arxiv.org/abs/2210.07188">ezCoref</a>) to appear at EACL 2023. Check out our codebase <a href="https://github.com/gnkitaa/ezCoref">here</a>.</td>
