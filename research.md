@@ -33,9 +33,13 @@ I am broadly interested in computational social science, misinformation detectio
 
 ## Other Publications
 <ul>
+    <li><a href="https://osf.io/preprints/socarxiv/4dngy/">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
+      Erica Cai, Ankita Gupta, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
+      arXiv preprint, 2023.</li>
+  
   <li><a href="https://arxiv.org/abs/1908.11443">NarrativeTime: Dense Temporal Annotation on a Timeline.</a><br/>
       Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
-      arxiv preprint, 2022.</li>
+      arXiv preprint, 2022.</li>
   
 <li>Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments.<br/>
       Katherine A. Keith, <b>Ankita Gupta</b>, Erica Cai, Brendan O'Connor, and Douglas Rice.<br/>
