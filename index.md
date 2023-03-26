@@ -14,6 +14,10 @@
 <col width="100px">
 <col width="650px">
   <tr>
+    <td>March 2023</td>
+    <td> <a href="https://osf.io/preprints/socarxiv/4dngy/">Our paper</a> was mentioned on <a href="https://pca.st/c81zlgty#t=2663">Strict Scrutiny</a>, a podcast about the United States Supreme Court and the legal culture that surrounds it.</td>
+  </tr>
+  <tr>
     <td>Jan 2023</td>
     <td>New paper on coreference annotation (<a href="https://arxiv.org/abs/2210.07188">ezCoref</a>) to appear at EACL 2023. Check out our codebase <a href="https://github.com/gnkitaa/ezCoref">here</a>.</td>
   </tr>
