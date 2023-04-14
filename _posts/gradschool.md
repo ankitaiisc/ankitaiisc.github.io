@@ -6,6 +6,9 @@
     Many interesting thoughts and perspectives from an advisor's point of view. Know it before you sign up!</li>
   <li> <a href="https://s.tech.cornell.edu/phd-syllabus/">Philip Guo’s Experience (PhD Grind)</a> </br>
   An honest account of Phillip Guo’s Ph.D. journey in Computer Science, an excellent read to understand the hiccups, challenges, and triumphs of a Ph.D. journey.</li>
+  <li><a href="http://aberger.site/coffee/">The Coffee Experiment</a></br> 
+  A cute guide on how to setup an experiment.
+  </li>
 </ul>
 
 ## Scientific Writing - Taming the Beast
