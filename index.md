@@ -14,6 +14,10 @@
 <col width="100px">
 <col width="650px">
   <tr>
+    <td>April 2023</td>
+    <td> I am pressenting a poster at <a href="https://nenlp.github.io/spr2023/full_schedule.html">NENLP 2023</a>.</td>
+  </tr>
+  <tr>
     <td>March 2023</td>
     <td> <a href="https://osf.io/preprints/socarxiv/4dngy/">Our paper</a> was mentioned on <a href="https://pca.st/c81zlgty#t=2663">Strict Scrutiny</a>, a podcast about the United States Supreme Court and the legal culture that surrounds it.</td>
   </tr>
