@@ -15,7 +15,7 @@
 <col width="650px">
   <tr>
     <td>April 2023</td>
-    <td> I am pressenting a poster at <a href="https://nenlp.github.io/spr2023/full_schedule.html">NENLP 2023</a>.</td>
+    <td> I am presenting a <a href="https://ankitaiisc.github.io/images/ezCoref_Poster.pdf">poster</a> at <a href="https://nenlp.github.io/spr2023/full_schedule.html">NENLP 2023</a>.</td>
   </tr>
   <tr>
     <td>March 2023</td>
