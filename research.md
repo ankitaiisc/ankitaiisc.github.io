@@ -12,7 +12,9 @@ I am broadly interested in computational social science, misinformation detectio
   </li>
   <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.<br/>
-    Forthcoming, Findings of ACL: EACL 2023. Also arXiv preprint, 2022.</li>
+    Forthcoming, Findings of ACL: EACL 2023. Also arXiv preprint, 2022.<br/>
+    [<a href="https://ankitaiisc.github.io/images/EACL_poster.pdf">poster</a>] [<a href="https://ankitaiisc.github.io/images/EACL_slides.pdf">slides</a>]
+  </li>
   <li>PoliBelief: A Multi-Source Epistemic Stance Dataset for Analyzing Political Ideology.<br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
       Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a><br/>
