@@ -14,7 +14,7 @@
 <col width="100px">
 <col width="650px">
   <tr>
-    <td>April 2023</td>
+    <td>Dec 2023</td>
     <td> I presented our work [<a href="https://ankitaiisc.github.io/images/ezCoref_crac_2023.pdf">slides</a>] at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a>.</td>
   </tr>
   <tr>
