@@ -15,7 +15,7 @@
 <col width="650px">
   <tr>
     <td>April 2023</td>
-    <td> I am presenting <a href="https://ankitaiisc.github.io/images/ezCoref_Poster.pdf">ezCoref</a> at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a>.</td>
+    <td> I presented our work [<a href="">slides</a>] at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a>.</td>
   </tr>
   <tr>
   <tr>
