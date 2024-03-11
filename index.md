@@ -14,6 +14,11 @@
 <col width="100px">
 <col width="650px">
   <tr>
+    <td>April 2023</td>
+    <td> I am presenting <a href="https://ankitaiisc.github.io/images/ezCoref_Poster.pdf">ezCoref</a> at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a>.</td>
+  </tr>
+  <tr>
+  <tr>
     <td>June 2023</td>
     <td>Started summer internship at <a href="https://research.ibm.com/teams/natural-language-processing"> IBM Watson </a> in Yorktown Heights, New York</td>
   </tr>
