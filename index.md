@@ -2,7 +2,7 @@
 
 <img src="./images/me_crop.jpg" width="200"/>
 
-<p align="justify"> I am a Ph.D. student in Computer Science at University of Massachusetts Amherst advised by <a href="http://brenocon.com/">Brendan T. O'Connor</a> in the <a href="https://nlp.cs.umass.edu/">UMass NLP Lab</a>. I am broadly interested in misinformation analysis, learning from crowdsourced/limited data, computational social science, and natural language understanding.</p>
+<p align="justify"> I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst, advised by <a href="http://brenocon.com/">Brendan T. O'Connor</a> and supported by an <a href="https://research.ibm.com/university/awards/fellowships-awardees.html">IBM PhD Fellowship Award</a>. I'm a member of the <a href="https://slanglab.cs.umass.edu/">SLANG Lab</a> and the larger <a href="https://nlp.cs.umass.edu/">UMass NLP group</a>. My research is in the area of computational social science and natural language processing.</p>
 
 <p align="justify"> Before starting my doctoral studies, I worked as an Applied Scientist in India Machine Learning team at <a href="https://www.amazon.science/">Amazon</a>, where I worked on problems such as contextual bandits for recommendation systems. I also worked in the Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research</a>, where I worked on computational methods to analyze misinformation on the web. Check out my work in this area <a href="https://scholar.google.com/citations?user=7nq1kBMAAAAJ&hl=en">here!</a></p>
 
@@ -13,6 +13,10 @@
 <table>
 <col width="100px">
 <col width="650px">
+  <tr>
+    <td>June 2023</td>
+    <td>Started summer internship at <a href="https://research.ibm.com/teams/natural-language-processing"> IBM Watson </a> in Yorktown Heights, New York</td>
+  </tr>
   <tr>
     <td>April 2023</td>
     <td> I am presenting a <a href="https://ankitaiisc.github.io/images/ezCoref_Poster.pdf">poster</a> at <a href="https://nenlp.github.io/spr2023/full_schedule.html">NENLP 2023</a>.</td>
