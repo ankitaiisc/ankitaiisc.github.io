@@ -18,7 +18,6 @@
     <td> I presented our work [<a href="https://ankitaiisc.github.io/images/ezCoref_crac_2023.pdf">slides</a>] at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a>.</td>
   </tr>
   <tr>
-  <tr>
     <td>June 2023</td>
     <td>Started summer internship at <a href="https://research.ibm.com/teams/natural-language-processing"> IBM Watson </a> in Yorktown Heights, New York</td>
   </tr>
