@@ -14,12 +14,9 @@
 <col width="100px">
 <col width="650px">
   <tr> 
-    <td>Feb 2024</td>
-    <td><a href="https://arxiv.org/abs/1908.11443">NarrativeTime</a> was accepted to LREC-COLING 2024!
-    </td>
-  <tr> 
     <td>Dec 2023</td>
-    <td>I passed <a href="https://www.cics.umass.edu/grads/portfolio">portfolio</a> (the equivalent of a PhD candidacy exam).    </td>
+    <td>I passed <a href="https://www.cics.umass.edu/grads/portfolio">portfolio</a> (the equivalent of a PhD candidacy exam).    
+    </td>
    </tr>
   <tr>
     <td>Dec 2023</td>
