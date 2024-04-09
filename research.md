@@ -1,5 +1,4 @@
 # Research
-I am broadly interested in computational social science, misinformation detection and fact-verification, causal inference, learning from limited data, language understanding and information extraction (who did what to whom).
 
 <a href="https://scholar.google.co.in/citations?user=7nq1kBMAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Ankita-Gupta/2110760579">Semantic Scholar</a>
 
@@ -41,7 +40,7 @@ I am broadly interested in computational social science, misinformation detectio
   
   <li><a href="https://arxiv.org/abs/1908.11443">NarrativeTime: Dense Temporal Annotation on a Timeline.</a><br/>
       Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
-      arXiv preprint, 2022.</li>
+      LREC-COLING, 2024.</li>
   
 <li>Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments.<br/>
       Katherine A. Keith, <b>Ankita Gupta</b>, Erica Cai, Brendan O'Connor, and Douglas Rice.<br/>
