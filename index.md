@@ -4,8 +4,8 @@
 
 <p align="justify"> I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst, advised by <a href="http://brenocon.com/">Brendan T. O'Connor</a> and supported by an <a href="https://research.ibm.com/university/awards/fellowships-awardees.html">IBM PhD Fellowship Award</a>. I'm a member of the <a href="https://slanglab.cs.umass.edu/">SLANG Lab</a> and the larger <a href="https://nlp.cs.umass.edu/">UMass NLP group</a>. My research is in the area of computational social science and natural language processing.</p>
 
-<p align="justify"> Before starting my doctoral studies, I worked as an Applied Scientist in India Machine Learning team at <a href="https://www.amazon.science/">Amazon</a>, where I worked on problems such as contextual bandits for recommendation systems. I also worked in the Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research</a>, where I worked on computational methods to analyze misinformation on the web. Check out my work in this area <a href="https://scholar.google.com/citations?user=7nq1kBMAAAAJ&hl=en">here!</a></p>
-
+<p align="justify"> Before starting my doctoral studies, I worked with India Machine Learning team at <a href="https://www.amazon.science/">Amazon</a>, and the Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research</a>. 
+  
 <p align="justify"> I completed my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was very fortunate to work with <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on power systems instability prediction.</p>
 
 ## Recent News
