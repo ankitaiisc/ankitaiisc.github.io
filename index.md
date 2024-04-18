@@ -12,6 +12,7 @@
 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
 <table>
+<col width="150px">
 <col width="650px">
   <tr> 
     <td>Dec 2023</td>
