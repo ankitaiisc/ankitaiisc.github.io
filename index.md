@@ -8,7 +8,7 @@
   
 <p align="justify"> I completed my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was very fortunate to work with <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on power systems instability prediction.</p>
 
-## Recent News
+### Recent News
 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
 <table>
