@@ -14,6 +14,14 @@
 <table>
 <col width="150px">
 <col width="650px">
+  <tr>
+    <td> April 2024 </td>
+    <td> Our work on <a href= "https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon.pdf">analyzing public participation in rulemaking via argument explication</a> to appear at IC2S2, 2024. </td> 
+  </tr>
+  <tr>
+    <td> Feb 2024 </td>
+    <td> Honored to have received <a href="https://research.ibm.com/university/awards/fellowships-awardees.html"> 2023 IBM PhD Fellowship Award</a>. Here's a <a href="https://www.cics.umass.edu/news/cics-phd-candidates-ankita-gupta-and-lijun-zhang-receive-2023-ibm-phd-fellowship">profile</a> from Manning CICS, UMass.</td>
+  </tr>
   <tr> 
     <td>Dec 2023</td>
     <td>I passed <a href="https://www.cics.umass.edu/grads/portfolio">portfolio</a> (the equivalent of a PhD candidacy exam).</td>
