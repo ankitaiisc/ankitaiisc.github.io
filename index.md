@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td> Feb 2024 </td>
-    <td> Honored to have received <a href="https://research.ibm.com/university/awards/fellowships-awardees.html"> 2023 IBM PhD Fellowship Award</a>. Here's a <a href="https://www.cics.umass.edu/news/cics-phd-candidates-ankita-gupta-and-lijun-zhang-receive-2023-ibm-phd-fellowship">profile</a> from Manning CICS, UMass.</td>
+    <td> Honored to have received <a href="https://research.ibm.com/university/awards/fellowships-awardees.html"> 2023 IBM PhD Fellowship Award</a>. Here's a <a href="https://www.cics.umass.edu/news/cics-phd-candidates-ankita-gupta-and-lijun-zhang-receive-2023-ibm-phd-fellowship">profile</a> from Manning CICS, UMass Amherst.</td>
   </tr>
   <tr> 
     <td>Dec 2023</td>
