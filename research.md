@@ -4,7 +4,7 @@
 
 ## Selected Publications
 <ul>
-  <li>Making sense of public participation in rulemaking using argument explication.<br/>
+  <li><a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon.pdf">Making sense of public participation in rulemaking using argument explication.</a><br/>
       <b>Ankita Gupta</b>, Ethan Zuckerman, and Brendan O'Connor.<br/>
       10th International Conference on Computational Social Science, 2024.<br/>
   </li>
