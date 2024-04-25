@@ -6,7 +6,7 @@
 
 <p align="justify"> Before starting my doctoral studies, I worked with India Machine Learning team at <a href="https://www.amazon.science/">Amazon</a>, and the Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research</a>. 
   
-<p align="justify"> I completed my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was very fortunate to work with <a href="http://www.ee.iisc.ac.in/faculty/sastry/">P.S. Sastry</a> and <a href="http://www.ee.iisc.ac.in/faculty/gurunath/">Gurunath Gurrala</a> on power systems instability prediction.</p>
+<p align="justify"> I completed my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was very fortunate to work with <a href="https://ee.iisc.ac.in/sastry-p-s/">P.S. Sastry</a> and <a href="https://ee.iisc.ac.in/~gurunath/">Gurunath Gurrala</a> on power systems instability prediction.</p>
 
 <b> Recent News</b>
 
