@@ -16,7 +16,7 @@
 <col width="650px">
   <tr>
     <td> April 2024 </td>
-    <td> Our work on <a href= "https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">analyzing public participation in rulemaking via argument explication</a> is accepted as plenary talk at IC2S2, 2024. </td> 
+    <td> Our work on analyzing public participation in rulemaking via argument explication</a> is accepted for a plenary talk at IC2S2, 2024. </td> 
   </tr>
   <tr>
     <td> Feb 2024 </td>
