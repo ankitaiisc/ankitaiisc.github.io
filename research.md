@@ -23,11 +23,7 @@
       Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a><br/>
       [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>]
   </li>
-
-  <li><a href="https://www.aclweb.org/anthology/S19-2204.pdf"> Question Factuality and Answer Veracity Prediction in Community Forums.</a><br/>
-      <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Divya Prakash, RR Rohit, Vertika Srivastava, Yeon Hyang Kim<br/>
-      Proceedings of the 13th International Workshop on Semantic Evaluation at NAACL HLT, 2019<br/></li>
-
+  
   <li><a href="https://ieeexplore.ieee.org/abstract/document/8486644">An Online Power System Stability Monitoring System using Convolutional Neural Networks.</a><br/>
       <b>Ankita Gupta</b>, Gurunath Gurrala, PS Sastry<br/>
       IEEE Transactions on Power Systems, 2018<br/></li>
@@ -46,6 +42,11 @@
       Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
       LREC-COLING, 2024.</li>
 
+ <li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
+<b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
+   arXiv preprint, 2023 (in progress).
+</li>
+
   <li><a href="https://osf.io/preprints/socarxiv/4dngy/">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
   Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
   arXiv preprint, 2023.</li>
@@ -57,11 +58,15 @@
 <li><a href="https://arxiv.org/abs/2210.13746">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
       Marzena Karpinska, Nishant Raj, Katherine Thai, Yixiao Song, <b>Ankita Gupta</b>, Mohit Iyyer<br/>
       In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.<br/></li>
-  
+
 <li><a href="https://www.aclweb.org/anthology/2020.semeval-1.236.pdf">Ensemble Architecture for Fine-Tuned Propaganda Detection in News Articles.</a><br/>
       Mayank Raj, Ajay Jaiswal, <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Vertika Srivastava, Yeon Hyang Kim<br/>
       In Proceedings of the Fourteenth Workshop on Semantic Evaluation, 2020<br/></li>
   
+  <li><a href="https://www.aclweb.org/anthology/S19-2204.pdf"> Question Factuality and Answer Veracity Prediction in Community Forums.</a><br/>
+      <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Divya Prakash, RR Rohit, Vertika Srivastava, Yeon Hyang Kim<br/>
+      Proceedings of the 13th International Workshop on Semantic Evaluation at NAACL HLT, 2019<br/></li>
+
 <li><a href="https://www.aclweb.org/anthology/S19-2189.pdf"> Hyperpartisan News Detection using Lexical and Semantic Features</a><br/>
       Vertika Srivastava, <b>Ankita Gupta</b>, Divya Prakash, Sudeep Kumar Sahoo, RR Rohit, Yeon Hyang Kim<br/>
       Proceedings of the 13th International Workshop on Semantic Evaluation, 2019<br/></li>
