@@ -16,7 +16,7 @@
 <col width="650px">
   <tr>
     <td> April 2024 </td>
-    <td> Our work on analyzing public participation in rulemaking via argument explication</a> is accepted for a plenary talk at IC2S2, 2024. </td> 
+    <td> Our work on analyzing public participation in rulemaking is accepted for a plenary talk at IC2S2, 2024. </td> 
   </tr>
   <tr>
     <td> Feb 2024 </td>
