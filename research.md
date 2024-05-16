@@ -4,7 +4,14 @@
 
 ## Selected Publications
 <ul>
-
+    <li><a href="https://openreview.net/forum?id=4DQNkZoAUY5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2024%2FFebruary%2FAuthors%23your-submissions)">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
+      <b>Ankita Gupta</b>, Ethan Zuckerman, and Brendan O'Connor.<br/>
+      ACL, 2024.<br/>
+  </li>
+   <li><a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">Making sense of public participation in rulemaking using argument explication.</a><br/>
+      <b>Ankita Gupta</b>, Ethan Zuckerman, and Brendan O'Connor.<br/>
+      10th International Conference on Computational Social Science, 2024.<br/>
+  </li>
   <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.<br/>
     Findings of EACL, 2023.<br/>
