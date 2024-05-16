@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td> April 2024 </td>
-    <td> Our work on analyzing <a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">public participation in rulemaking</a> is accepted for a plenary talk at IC2S2, 2024. </td> 
+    <td> Our work on analyzing <a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">public participation in rulemaking</a> is accepted for a plenary talk at IC2S2 2024. </td> 
   </tr>
   <tr>
     <td> Feb 2024 </td>
