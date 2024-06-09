@@ -6,8 +6,9 @@
 <ul>
     <li><a href="https://openreview.net/forum?id=4DQNkZoAUY5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2024%2FFebruary%2FAuthors%23your-submissions)">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
       <b>Ankita Gupta</b>, Ethan Zuckerman, and Brendan O'Connor.<br/>
-      ACL, 2024.<br/>
-      To also appear as an <a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">abstract</a> at <a href="https://ic2s2-2024.org/">IC2S2, 2024</a>.
+      Forthcoming at ACL, 2024.<br/>
+      To also appear at IC2S2 2024 as <font color="#87CEEB"> Plenary Talk </font>  (2.8% submissions) <br/>
+      [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]
     </li>
   <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.<br/>
