@@ -25,7 +25,7 @@
   
   <li>PoliBelief: A Multi-Source Epistemic Stance Dataset for Analyzing Political Ideology.<br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      Abstract presented at <a href="https://tada2021.org/">Text as Data 2021</a> (oral).<br/>
+      Abstract presented at <a href="https://tada2021.org/">Text as Data </a> 2021 (oral).<br/>
       [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>]
   </li>
   
