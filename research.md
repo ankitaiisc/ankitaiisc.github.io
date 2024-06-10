@@ -6,34 +6,35 @@
 <ul>
     <li><a href="https://openreview.net/forum?id=4DQNkZoAUY5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2024%2FFebruary%2FAuthors%23your-submissions)">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
       <b>Ankita Gupta</b>, Ethan Zuckerman, and Brendan O'Connor.<br/>
-      Forthcoming at ACL, 2024.<br/>
-      To also appear at IC2S2 2024 as <font color="#FF8096"> Plenary Talk </font>  (2.8% submissions) <br/>
+      Forthcoming at ACL 2024.<br/>
+      To also appear at IC2S2 2024 as <font color="#FF8096"> Plenary Talk </font>  (2.8% submissions). <br/>
       [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]
     </li>
   <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.<br/>
     Findings of EACL, 2023.<br/>
+    Also presented at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a> (oral).<br/>
     [<a href="https://ankitaiisc.github.io/images/EACL_poster.pdf">poster</a>] [<a href="https://ankitaiisc.github.io/images/EACL_slides.pdf">slides</a>]
   </li>
   
   <li><a href="https://arxiv.org/pdf/2212.14486.pdf">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      In Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS) at EMNLP, 2022.<br/>
+      NLP+CSS, EMNLP 2022 (oral).<br/>
       [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>]
   </li>
   
   <li>PoliBelief: A Multi-Source Epistemic Stance Dataset for Analyzing Political Ideology.<br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      Abstract presented at <a href="https://tada2021.org/">11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).</a><br/>
+      Abstract presented at <a href="https://tada2021.org/">Text as Data 2021</a> (oral).<br/>
       [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>]
   </li>
   
   <li><a href="https://ieeexplore.ieee.org/abstract/document/8486644">An Online Power System Stability Monitoring System using Convolutional Neural Networks.</a><br/>
       <b>Ankita Gupta</b>, Gurunath Gurrala, PS Sastry<br/>
-      IEEE Transactions on Power Systems, 2018<br/></li>
+      IEEE Transactions on Power Systems 2018<br/></li>
   <li><a href="https://cps.iisc.ac.in/wp-content/uploads/2018/12/0249.pdf">Instability Prediction in Power Systems using Recurrent Neural Networks.</a><br/>
       <b>Ankita Gupta</b>, Gurunath Gurrala, Pidaparthy S Sastry<br/>
-      IJCAI, 2017<br/></li>
+      IJCAI 2017 (oral) <br/></li>
 </ul>
 
 ## Other Publications
