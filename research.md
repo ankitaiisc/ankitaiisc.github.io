@@ -39,7 +39,7 @@
 
 ## Other Publications
 <ul>
-  <li>KaPQA: Knowledge-Augmented Product Question-Answering<br/>
+  <li>KaPQA: Knowledge Augmented Product Question Answering<br/>
         Swetha Eppalapally, Daksh Dangi, Chaithra Bhat, <b>Ankita Gupta</b>, Ruiyi Zhang, Shubham Agarwal, Karishma Bagga, Seunghyun Yoon, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt<br/>
         Forthcoming at KnowledgeNLP, ACL 2024.<br/> </li>
     
