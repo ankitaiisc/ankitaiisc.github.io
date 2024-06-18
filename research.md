@@ -39,6 +39,11 @@
 
 ## Other Publications
 <ul>
+    <li>KaPQA: Knowledge-Augmented Product Question-Answering<br/>
+        Swetha Eppalapally, Daksh Dangi, Chaithra Bhat, <b>Ankita Gupta</b>, Ruiyi Zhang, Shubham Agarwal, Karishma Bagga, Seunghyun Yoon, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt<br/>
+        Forthcoming at KnowledgeNLP, ACL 2024.<br/>
+    </li>
+    
   <li><a href="http://arxiv.org/abs/2404.15565">CASPR: Automated Evaluation Metric for Contrastive Summarization.</a><br/>
       Nirupan Ananthamurugan, Dat Duong, Philip George, <b>Ankita Gupta</b>, Sandeep Tata, Beliz Gunel.<br/>
       arXiv preprint, 2024.</li>
