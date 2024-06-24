@@ -39,6 +39,11 @@
 
 ## Other Publications
 <ul>
+    
+<li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
+<b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
+   Forthcoming at ConvAI, ACL 2024</a>.
+</li>
   <li>KaPQA: Knowledge Augmented Product Question Answering<br/>
         Swetha Eppalapally, Daksh Dangi, Chaithra Bhat, <b>Ankita Gupta</b>, Ruiyi Zhang, Shubham Agarwal, Karishma Bagga, Seunghyun Yoon, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt<br/>
         Forthcoming at KnowledgeNLP, ACL 2024.<br/> </li>
@@ -50,11 +55,6 @@
   <li><a href="https://arxiv.org/abs/1908.11443">NarrativeTime: Dense Temporal Annotation on a Timeline.</a><br/>
       Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
       LREC-COLING, 2024.</li>
-
- <li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
-<b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
-   arXiv preprint, 2023 (in progress).
-</li>
 
   <li><a href="https://osf.io/preprints/socarxiv/4dngy/">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
   Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
