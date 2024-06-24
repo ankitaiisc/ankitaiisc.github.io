@@ -40,9 +40,9 @@
 ## Other Publications
 <ul>
     
-<li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
+<li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Open Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
 <b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
-   Forthcoming at ConvAI, ACL 2024</a>.
+   Forthcoming at ConvAI, ACL 2024.
 </li>
   <li>KaPQA: Knowledge Augmented Product Question Answering<br/>
         Swetha Eppalapally, Daksh Dangi, Chaithra Bhat, <b>Ankita Gupta</b>, Ruiyi Zhang, Shubham Agarwal, Karishma Bagga, Seunghyun Yoon, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt<br/>
