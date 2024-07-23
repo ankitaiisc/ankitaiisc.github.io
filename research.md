@@ -44,6 +44,11 @@
   Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
   LREC-COLING, 2024.
 </li>
+
+<li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Open Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
+<b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
+   Forthcoming at NLP for Conversational AI, ACL 2024 (oral). 
+</li>
     
 <li><a href="http://arxiv.org/abs/2404.15565">CASPR: Automated Evaluation Metric for Contrastive Summarization.</a><br/>
   Nirupan Ananthamurugan, Dat Duong, Philip George, <b>Ankita Gupta</b>,<sup>*</sup> Sandeep Tata, Beliz Gunel.<br/>
