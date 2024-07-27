@@ -55,11 +55,6 @@
   arXiv preprint, 2024.<br/>
   <sup>*</sup>Mentoring for <a href="https://sites.google.com/umass.edu/compsci696ds-spring2023/">COMPSCI 696DS</a>
 </li>
-
-<li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Open Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
-<b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
-   arXiv preprint, 2023.
-</li>
   
 <li><a href="https://osf.io/preprints/socarxiv/4dngy/">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
 Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
