@@ -4,7 +4,7 @@
 
 ## Selected Publications
 <ul>
-    <li><a href="https://openreview.net/forum?id=4DQNkZoAUY5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2024%2FFebruary%2FAuthors%23your-submissions)">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
+    <li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
       <b>Ankita Gupta</b>, Ethan Zuckerman, and Brendan O'Connor.<br/>
       Forthcoming at ACL 2024.<br/>
       To also appear at IC2S2 2024 as <font color="#FF8096"> Plenary Talk </font>  (2.8% submissions). <br/>
