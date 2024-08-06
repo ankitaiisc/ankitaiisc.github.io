@@ -1,6 +1,6 @@
 # Research
 
-<a href="https://scholar.google.co.in/citations?user=7nq1kBMAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Ankita-Gupta/2110760579">Semantic Scholar</a>, <a href="https://ankitaiisc.github.io/images/Ankita_CV_2024.pdf">Academic CV</a>
+<a href="https://scholar.google.co.in/citations?user=7nq1kBMAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Ankita-Gupta/2110760579">Semantic Scholar</a>, <a href="https://ankitaiisc.github.io/images/Ankita_CV_2024_Aug.pdf">Academic CV</a>
 
 ## Selected Publications
 <ul>
