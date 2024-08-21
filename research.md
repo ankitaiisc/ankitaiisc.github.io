@@ -6,9 +6,8 @@
 <ul>
     <li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
       <b>Ankita Gupta</b>, Ethan Zuckerman, and Brendan O'Connor.<br/>
-      Forthcoming at ACL 2024.<br/>
-      To also appear at IC2S2 2024 as <font color="#FF8096"> Plenary Talk </font>  (2.8% submissions). <br/>
-      [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]
+      ACL 2024.<br/>
+      <font color="#FF8096"> Plenary Talk </font> at IC2S2 2024 (2.8% submissions) [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]. <br/>
     </li>
   <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.<br/>
@@ -19,14 +18,9 @@
   
   <li><a href="https://arxiv.org/pdf/2212.14486.pdf">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      NLP+CSS, EMNLP 2022 (oral).<br/>
-      [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>]
-  </li>
-  
-  <li>PoliBelief: A Multi-Source Epistemic Stance Dataset for Analyzing Political Ideology.<br/>
-      <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.<br/>
-      Abstract presented at <a href="https://tada2021.org/">Text as Data </a> 2021 (oral).<br/>
-      [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>]
+      NLP+CSS, EMNLP 2022 [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>].<br/>
+      Preliminary version presented at <a href="https://tada2021.org/">Text as Data </a> 2021 [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>].<br/>
+      
   </li>
   
   <li><a href="https://ieeexplore.ieee.org/abstract/document/8486644">An Online Power System Stability Monitoring System using Convolutional Neural Networks.</a><br/>
@@ -42,12 +36,18 @@
 
 <li><a href="https://arxiv.org/abs/1908.11443">NarrativeTime: Dense Temporal Annotation on a Timeline.</a><br/>
   Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
-  LREC-COLING, 2024.
+  LREC-COLING 2024.
 </li>
 
 <li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Open Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
 <b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
-   Forthcoming at NLP for Conversational AI, ACL 2024 (oral). 
+   NLP for Conversational AI, ACL 2024 (oral). 
+</li>
+
+<li><a href="https://osf.io/preprints/socarxiv/4dngy/">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
+Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
+Journal of Law and Courts 2024.<br/>
+Preliminary version presented at TADA 2022.
 </li>
     
 <li><a href="http://arxiv.org/abs/2404.15565">CASPR: Automated Evaluation Metric for Contrastive Summarization.</a><br/>
@@ -55,19 +55,10 @@
   arXiv preprint, 2024.<br/>
   <sup>*</sup>Mentoring for <a href="https://sites.google.com/umass.edu/compsci696ds-spring2023/">COMPSCI 696DS</a>
 </li>
-  
-<li><a href="https://osf.io/preprints/socarxiv/4dngy/">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
-Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
-arXiv preprint, 2023.
-</li>
-  
-<li>Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments.<br/>
-      Katherine A. Keith, <b>Ankita Gupta</b>, Erica Cai, Brendan O'Connor, and Douglas Rice.<br/>
-      Abstract presented at <a href="https://tada2022.org/">New Directions in Analyzing Text as Data (TADA 2022).</a></li>
-  
+
 <li><a href="https://arxiv.org/abs/2210.13746">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
       Marzena Karpinska, Nishant Raj, Katherine Thai, Yixiao Song, <b>Ankita Gupta</b>, Mohit Iyyer<br/>
-      In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.<br/></li>
+      EMNLP 2022.<br/></li>
 
 <li><a href="https://www.aclweb.org/anthology/2020.semeval-1.236.pdf">Ensemble Architecture for Fine-Tuned Propaganda Detection in News Articles.</a><br/>
       Mayank Raj, Ajay Jaiswal, <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Vertika Srivastava, Yeon Hyang Kim<br/>
