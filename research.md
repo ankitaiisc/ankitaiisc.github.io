@@ -39,7 +39,8 @@
   LREC-COLING 2024.
 </li>
 
-<li><a href="https://arxiv.org/pdf/2311.08705v1"> Evaluating Robustness of Open Dialogue Summarization Models in the Presence of Naturally Occurring Variations.</a><br/>
+<li><a href="https://aclanthology.org/2024.nlp4convai-1.4.pdf"> Evaluating Robustness of Open Dialogue Summarization Models in the
+Presence of Naturally Occurring Variations.</a><br/>
 <b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
    NLP for Conversational AI, ACL 2024 (oral). 
 </li>
