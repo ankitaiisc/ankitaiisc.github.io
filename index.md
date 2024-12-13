@@ -13,6 +13,14 @@
 <col width="150px">
 <col width="650px">
   <tr>
+    <td> Dec 2024 </td>
+    <td> I gave a research talk at the <a href="https://www.cssi.umass.edu/events/fri-12062024-1200/cssi-seminar-phd-student-spotlight-presentations">UMass CSSI Seminar</a>. [<a href="https://docs.google.com/presentation/d/1PUusL3TYfJzUYBss2oBPJbtRwNl9VSA4TH3rbLlaO_w/edit?usp=sharing">slides</a>]</td> 
+  </tr>
+  <tr>
+    <td> Aug 2024 </td>
+    <td> I presented our work at <a href="https://2024.aclweb.org/">ACL 2024</a>. [<a href="https://docs.google.com/presentation/d/1IeqWBia4uzQ1U1s5sxB9D7aUefGCWmULzPvp4ZKGVlE/edit?usp=sharing">slides</a>] </td> 
+  </tr>
+  <tr>
     <td> May 2024 </td>
     <td> New paper on argument explication to appear at ACL 2024. </td> 
   </tr>
