@@ -7,7 +7,7 @@
 <p align="justify"> Before starting my doctoral studies, I worked with India Machine Learning team at <a href="https://www.amazon.science/">Amazon</a>, and the Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research</a>. I completed my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was advised by <a href="https://ee.iisc.ac.in/sastry-p-s/">P.S. Sastry</a> and <a href="https://ee.iisc.ac.in/~gurunath/">Gurunath Gurrala</a>.</p>
 
 <b> Recent News</b>
-
+ 
 <div style="height:300px;overflow:auto; border:1px solid #999; padding-left: 0.7em; padding-right: 0.7em">
 <table>
 <col width="150px">
