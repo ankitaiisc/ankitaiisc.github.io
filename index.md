@@ -12,6 +12,14 @@
 <table>
 <col width="150px">
 <col width="650px">
+  <tr> 
+    <td> Feb 2024 </td>
+    <td> Our work on legal argument stance classification was accepted to <a href="https://computersciencelaw.org/2025">CS&Law 2025</a>!</td>
+  </tr>
+  <tr> 
+    <td> Dec 2024 </td>
+    <td> I successfully defended my thesis proposal!</td>
+  </tr>
   <tr>
     <td> Dec 2024 </td>
     <td> I gave a research talk at the <a href="https://www.cssi.umass.edu/events/fri-12062024-1200/cssi-seminar-phd-student-spotlight-presentations">UMass CSSI Seminar</a>. [<a href="https://docs.google.com/presentation/d/1PUusL3TYfJzUYBss2oBPJbtRwNl9VSA4TH3rbLlaO_w/edit?usp=sharing">slides</a>]</td> 
