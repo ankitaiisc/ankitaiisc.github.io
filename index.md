@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td> Aug 2024 </td>
-    <td> Our paper on <a href="https://osf.io/preprints/socarxiv/4dngy_v1">Supreme Court oral arguments</a> was accepted at the Journal of Law and Courts.</a> 
+    <td> Our paper on analyzing <a href="https://osf.io/preprints/socarxiv/4dngy_v1">Supreme Court oral arguments</a> was accepted at the Journal of Law and Courts.</a> 
     </td> 
   </tr>
   <tr>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td> May 2024 </td>
-    <td> New paper on argument explication to appear at ACL 2024. </td> 
+   <td> Our work on <a href="https://aclanthology.org/2024.acl-long.552/">understanding argumentative public comments</a> is accepted at ACL 2024.</td>
   </tr>
   <tr>
     <td> April 2024 </td>
