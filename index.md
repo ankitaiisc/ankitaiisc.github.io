@@ -13,7 +13,7 @@
 <col width="150px">
 <col width="650px">
   <tr> 
-    <td> Feb 2024 </td>
+    <td> Feb 2025 </td>
     <td> Our work on legal argument stance classification was accepted to <a href="https://computersciencelaw.org/2025">CS&Law 2025</a>!</td>
   </tr>
   <tr> 
