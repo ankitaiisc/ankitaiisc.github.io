@@ -12,16 +12,12 @@
 <table>
 <col width="150px">
 <col width="650px">
- <tr> 
- <td> March 2025 </td>
- <td> I will be attending <a href="https://computersciencelaw.org/2025-2/workshop-for-junior-scholars/">Computer Science & Law Junior Scholars Workshop!</a></td>
- </tr>
  <tr>
   <td> March 2025 </td>
   <td> Honored to have been selected to attend the <a href="https://www.umass.edu/provost/news/graduate-students-and-faculty-receive-funding-support-attend-future-world-changers-academy">Future World Changers of the Academy Conference 2025!</a></td>
   <tr>
     <td> Feb 2025 </td>
-    <td> Our work on legal argument stance classification was accepted to <a href="https://computersciencelaw.org/2025">CS&Law 2025</a>! I am also very grateful to have received travel support to attend the conference.</td>
+    <td> Our work on legal argument stance classification was accepted to <a href="https://computersciencelaw.org/2025">CS&Law 2025</a> in the WIP track! I am also very grateful to have been selected to attend the <a href="https://computersciencelaw.org/2025-2/workshop-for-junior-scholars/">Junior scholars workshop</a> and to receive travel support to attend the conference.</td>
   </tr>
   <tr> 
     <td> Dec 2024 </td>
