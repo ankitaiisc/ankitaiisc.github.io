@@ -18,7 +18,7 @@
 </tr>
  <tr>
     <td> Feb 2025 </td>
-    <td> Our work on legal argument stance classification was accepted to <a href="https://computersciencelaw.org/2025">CS&Law 2025</a> in the WIP track! I am also very grateful to have been selected to attend the <a href="https://computersciencelaw.org/2025-2/workshop-for-junior-scholars/">Junior scholars workshop</a> and to receive travel support to attend the conference.</td>
+    <td> Our work on legal argument stance classification was accepted to <a href="https://computersciencelaw.org/2025">CS&Law 2025</a> in the WIP track! I am also very grateful to have been selected to attend the <a href="https://computersciencelaw.org/2025-2/workshop-for-junior-scholars/">workshop for junior scholars at CS&Law 2025</a> and to receive travel support to attend the conference.</td>
   </tr>
   <tr> 
     <td> Dec 2024 </td>
