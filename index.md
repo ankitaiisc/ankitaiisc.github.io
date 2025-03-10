@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td> Aug 2024 </td>
-    <td> Our paper on analyzing <a href="https://osf.io/preprints/socarxiv/4dngy_v1">Supreme Court oral arguments</a> was accepted at the Journal of Law and Courts.
+    <td> Our paper on analyzing <a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/let-me-just-interrupt-you-estimating-gender-effects-in-supreme-court-oral-arguments/4870F0FD3BEF0E00AF46F8D64EDA2289#%3E">Supreme Court oral arguments</a> was accepted at the Journal of Law and Courts.
     </td> 
   </tr>
   <tr>
