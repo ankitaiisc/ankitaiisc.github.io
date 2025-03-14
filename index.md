@@ -12,6 +12,10 @@
 <table>
 <col width="150px">
 <col width="650px">
+  <tr>
+  <td> March 2025 </td>
+  <td> New paper on narrative understanding accepted to <a href="https://sites.google.com/cs.stonybrook.edu/wnu2025?usp=sharing">WNU 2025</a>!</a></td>
+</tr>
  <tr>
   <td> March 2025 </td>
   <td> Honored to have been selected to attend the <a href="https://www.umass.edu/provost/news/graduate-students-and-faculty-receive-funding-support-attend-future-world-changers-academy">Future World Changers of the Academy Conference 2025!</a></td>
