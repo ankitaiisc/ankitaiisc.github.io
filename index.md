@@ -14,7 +14,7 @@
 <col width="650px">
   <tr>
   <td> March 2025 </td>
-  <td> New paper on narrative understanding accepted to <a href="https://sites.google.com/cs.stonybrook.edu/wnu2025?usp=sharing">WNU 2025</a>!</a></td>
+  <td> New paper on narrative understanding accepted to <a href="https://sites.google.com/cs.stonybrook.edu/wnu2025?usp=sharing">WNU 2025</a>!</td>
 </tr>
  <tr>
   <td> March 2025 </td>
