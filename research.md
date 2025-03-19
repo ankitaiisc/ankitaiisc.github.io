@@ -13,18 +13,10 @@
       ACL 2024.<br/>
       <font color="#FF8096"> Plenary Talk </font> at IC2S2 2024 (2.8% submissions) [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]. <br/>
     </li>
-  <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
-     <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor.<br/>
-    Findings of EACL, 2023.<br/>
-    Also presented at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a> (oral).<br/>
-    [<a href="https://ankitaiisc.github.io/images/EACL_poster.pdf">poster</a>] [<a href="https://ankitaiisc.github.io/images/EACL_slides.pdf">slides</a>]
-  </li>
-  
   <li><a href="https://arxiv.org/pdf/2212.14486.pdf">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, Brendan O'Connor.<br/>
       NLP+CSS, EMNLP 2022 [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>].<br/>
       Preliminary version presented at <a href="https://tada2021.org/">Text as Data </a> 2021 [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>].<br/>
-      
   </li>
 </ul>
 
@@ -56,6 +48,13 @@ Presence of Naturally Occurring Variations.</a><br/>
   Nirupan Ananthamurugan, Dat Duong, Philip George, <b>Ankita Gupta</b>,<sup>*</sup> Sandeep Tata, Beliz Gunel.<br/>
   arXiv preprint, 2024.<br/>
   <sup>*</sup>Mentoring for <a href="https://sites.google.com/umass.edu/compsci696ds-spring2023/">COMPSCI 696DS</a>
+</li>
+
+<li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
+     <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor.<br/>
+    Findings of EACL, 2023.<br/>
+    Also presented at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a> (oral).<br/>
+    [<a href="https://ankitaiisc.github.io/images/EACL_poster.pdf">poster</a>] [<a href="https://ankitaiisc.github.io/images/EACL_slides.pdf">slides</a>]
 </li>
 
 <li><a href="https://arxiv.org/abs/2210.13746">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
