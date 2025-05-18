@@ -6,7 +6,8 @@
 <ul>
     <li><a href="https://github.com/slanglab/deltastance/tree/main?tab=readme-ov-file">δ-Stance: A large scale real world dataset of stances in legal argumentation.</a><br/>
       <b>Ankita Gupta</b>, Douglas Rice, Brendan O'Connor.<br/>
-      ACM Symposium on Computer Science and Law (WIP) 2025.<br/>
+      ACL 2025.<br/>
+      Preliminary version presented at ACM Symposium on CS&Law 2025 [<a href="https://docs.google.com/presentation/d/1VwMskyXvOU0A10S65H_lJjUGQr5_jXO1PLJNoOBl1gM/edit?usp=sharing">slides</a>]. <br/>
     </li>
     <li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
       <b>Ankita Gupta</b>, Ethan Zuckerman, Brendan O'Connor.<br/>
