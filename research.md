@@ -25,7 +25,9 @@
 <ul>
 <li>Automated main concept generation for narrative discourse assessment in aphasia.<br/>
     <b>Ankita Gupta</b>, Marisa J. Hudspeth, Polly Stokes, Jacquie Kurland, and Brendan O'Connor.<br/>
-    Seventh Workshop on Narrative Understanding, NAACL 2025.<br/>
+    Forthcoming at ACL Findings 2025. <br/>
+    Forthcoming poster presentation at <a href="https://clinicalaphasiologyconference.org/">CAC 2025</a>. <br/>
+    Also presented at <a href="https://sites.google.com/cs.stonybrook.edu/wnu2025?usp=sharing">Workshop on Narrative Understanding, NAACL 2025</a>.<br/>
 </li>
 
 <li><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/let-me-just-interrupt-you-estimating-gender-effects-in-supreme-court-oral-arguments/4870F0FD3BEF0E00AF46F8D64EDA2289#%3E">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
