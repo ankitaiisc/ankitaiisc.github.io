@@ -13,7 +13,7 @@
 <col width="150px">
 <col width="650px">
  <tr>
-  <td> March 2025 </td>
+  <td> May 2025 </td>
   <td> 2 papers accepted to ACL 2025 (on legal argumentation) and ACL Findings 2025 (on narrative understanding)!</td>
 </tr>
  <tr>
