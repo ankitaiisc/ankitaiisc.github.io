@@ -29,6 +29,10 @@
     Forthcoming poster presentation at <a href="https://clinicalaphasiologyconference.org/">CAC 2025</a>. <br/>
     Also presented at <a href="https://sites.google.com/cs.stonybrook.edu/wnu2025?usp=sharing">Workshop on Narrative Understanding, NAACL 2025</a>.<br/>
 </li>
+<li><a href="https://pubs.asha.org/doi/10.1044/2025_AJSLP-24-00400">Large Language Models' Ability to Assess Main Concepts in Story Retelling: A Proof-of-Concept Comparison of Human Versus Machine Ratings.</a> <br/>
+Jacquie Kurland, Vishnupriya Varadharaju, Anna Liu, Polly Stokes, <b>Ankita Gupta</b>, Marisa Hudspeth, and Brendan O'Connor.<br/>
+American Journal of Speech-Language Pathology. <br/>
+</li>
 
 <li><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/let-me-just-interrupt-you-estimating-gender-effects-in-supreme-court-oral-arguments/4870F0FD3BEF0E00AF46F8D64EDA2289#%3E">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
 Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
