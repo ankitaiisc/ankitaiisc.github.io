@@ -14,11 +14,11 @@
 <col width="650px">
 <tr>
     <td> June 2025 </td>
-    <td> Started my research internship at Microsoft Research NYC with the STAC and FATE groups. I will be working with <a href="https://www.microsoft.com/en-us/research/people/alexandrac/">Alex Chouldechva</a> and <a href="https://www.microsoft.com/en-us/research/people/nickpangakis/">Nick Pangakis</a>! </td>
+    <td> Started my research internship at Microsoft Research NYC with the <a href="https://www.microsoft.com/en-us/research/group/stac-sociotechnical-alignment-center/">STAC</a> and <a href="https://www.microsoft.com/en-us/research/theme/fate/">FATE</a>. I will be working with <a href="https://www.microsoft.com/en-us/research/people/alexandrac/">Alex Chouldechva</a> and <a href="https://www.microsoft.com/en-us/research/people/nickpangakis/">Nick Pangakis</a>! </td>
 </tr>
  <tr>
     <td> June 2025 </td>
-    <td> Gave a talk on argumentative text understanding at the AI & Law Seminar Series hosted by the AI group TrustHLT, Ruhr University Bochum, and Technische Universität Darmstadt!</td>
+    <td> Gave a talk at the AI & Law Seminar Series hosted by Ruhr University Bochum and TU Darmstadt!</td>
 </tr>
 <tr>
     <td> May 2025 </td>
@@ -46,7 +46,7 @@
   </tr>
   <tr> 
     <td> Dec 2024 </td>
-    <td> I successfully defended my thesis proposal!</td>
+    <td> I successfully defended my thesis proposal! Thank you Brendan O'Connor, Ethan Zuckerman, Mohit Iyyer, and Douglas Rice for being part of my committee.</td>
   </tr>
   <tr>
     <td> Dec 2024 </td>
