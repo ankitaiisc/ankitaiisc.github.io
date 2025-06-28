@@ -46,7 +46,7 @@
   </tr>
   <tr> 
     <td> Dec 2024 </td>
-    <td> I successfully defended my thesis proposal! Thank you Brendan O'Connor, Ethan Zuckerman, Mohit Iyyer, and Douglas Rice for being part of my committee.</td>
+    <td> I successfully defended my thesis proposal! Thank you <a href="">Brendan O'Connor</a>, <a href="">Ethan Zuckerman</a>, <a href="">Mohit Iyyer</a>, and <a href="">Douglas Rice</a> for being part of my committee.</td>
   </tr>
   <tr>
     <td> Dec 2024 </td>
