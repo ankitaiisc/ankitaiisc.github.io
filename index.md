@@ -22,7 +22,7 @@
 </tr>
 <tr>
     <td> May 2025 </td>
-    <td> Presented our work on narrative understanding for aphasia at <a href="https://clinicalaphasiologyconference.org/cac-2025/">CAC 2025</a>. Honored to have been selected as a NIDCD research fellow! [<a href="https://docs.google.com/presentation/d/1cFGv6r3njzEUmd8bukarrUry8J8O2Bb8fzEgW7z5hvA/edit?usp=sharing">slides</a>] [<a href="https://docs.google.com/presentation/d/1cyZt2GJBX3EBr_F2UbjBdgs0R4rTCLonFFYPHG-GUyE/edit?usp=sharing">poster</a>] </td>
+    <td> Presented our work on narrative understanding for aphasia at <a href="https://clinicalaphasiologyconference.org/cac-2025/">CAC 2025</a>. Honored to have been selected as a <a href="https://clinicalaphasiologyconference.org/students-at-cac/">NIDCD research fellow</a>! [<a href="https://docs.google.com/presentation/d/1cFGv6r3njzEUmd8bukarrUry8J8O2Bb8fzEgW7z5hvA/edit?usp=sharing">slides</a>] [<a href="https://docs.google.com/presentation/d/1cyZt2GJBX3EBr_F2UbjBdgs0R4rTCLonFFYPHG-GUyE/edit?usp=sharing">poster</a>] </td>
 </tr>
 <tr>
   <td> May 2025 </td>
