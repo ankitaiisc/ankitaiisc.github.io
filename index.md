@@ -14,7 +14,7 @@
 <col width="650px">
 <tr>
     <td> June 2025 </td>
-    <td> Started my research internship at Microsoft Research NYC with the <a href="https://www.microsoft.com/en-us/research/group/stac-sociotechnical-alignment-center/">STAC</a> and <a href="https://www.microsoft.com/en-us/research/theme/fate/">FATE</a>. I will be working with <a href="https://www.microsoft.com/en-us/research/people/alexandrac/">Alex Chouldechva</a> and <a href="https://www.microsoft.com/en-us/research/people/nickpangakis/">Nick Pangakis</a>! </td>
+    <td> Started my research internship at Microsoft Research NYC with the <a href="https://www.microsoft.com/en-us/research/group/stac-sociotechnical-alignment-center/">STAC</a> and <a href="https://www.microsoft.com/en-us/research/theme/fate/">FATE</a> groups. I will be working with <a href="https://www.microsoft.com/en-us/research/people/alexandrac/">Alex Chouldechva</a> and <a href="https://www.microsoft.com/en-us/research/people/nickpangakis/">Nick Pangakis</a>! </td>
 </tr>
  <tr>
     <td> June 2025 </td>
