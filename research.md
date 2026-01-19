@@ -1,38 +1,31 @@
 # Research
 
-<a href="https://scholar.google.co.in/citations?user=7nq1kBMAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Ankita-Gupta/2110760579">Semantic Scholar</a>, <a href="https://ankitaiisc.github.io/images/Ankita_CV_2024_Aug.pdf">Academic CV</a>
+<a href="https://scholar.google.co.in/citations?user=7nq1kBMAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.semanticscholar.org/author/Ankita-Gupta/2110760579">Semantic Scholar</a>
 
-## Selected Publications
+## Publications
 <ul>
-    <li><a href="https://github.com/slanglab/deltastance/tree/main?tab=readme-ov-file">δ-Stance: A large scale real world dataset of stances in legal argumentation.</a><br/>
+    <li><a href="https://github.com/slanglab/deltastance/tree/main?tab=readme-ov-file">δ-Stance: A large-scale real-world dataset of stances in legal argumentation.</a><br/>
       <b>Ankita Gupta</b>, Douglas Rice, Brendan O'Connor.<br/>
       ACL 2025.<br/>
       Preliminary version presented at ACM Symposium on CS&Law 2025 [<a href="https://docs.google.com/presentation/d/1VwMskyXvOU0A10S65H_lJjUGQr5_jXO1PLJNoOBl1gM/edit?usp=sharing">slides</a>]. <br/>
     </li>
-    <li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
-      <b>Ankita Gupta</b>, Ethan Zuckerman, Brendan O'Connor.<br/>
-      ACL 2024.<br/>
-      <font color="#FF8096"> Plenary Talk </font> at IC2S2 2024 (2.8% submissions) [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]. <br/>
-    </li>
-  <li><a href="https://arxiv.org/pdf/2212.14486.pdf">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
-      <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, Brendan O'Connor.<br/>
-      NLP+CSS, EMNLP 2022 [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>].<br/>
-      Preliminary version presented at <a href="https://tada2021.org/">Text as Data </a> 2021 [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>].<br/>
-  </li>
-</ul>
-
-## Other Publications
-<ul>
-<li>Automated main concept generation for narrative discourse assessment in aphasia.<br/>
+    <li>Automated main concept generation for narrative discourse assessment in aphasia.<br/>
     <b>Ankita Gupta</b>, Marisa J. Hudspeth, Polly Stokes, Jacquie Kurland, and Brendan O'Connor.<br/>
     Forthcoming at ACL Findings 2025. <br/>
     Forthcoming poster presentation at <a href="https://clinicalaphasiologyconference.org/">CAC 2025</a>. <br/>
     Also presented at <a href="https://sites.google.com/cs.stonybrook.edu/wnu2025?usp=sharing">Workshop on Narrative Understanding, NAACL 2025</a>.<br/>
 </li>
+    
 <li><a href="https://pubs.asha.org/doi/10.1044/2025_AJSLP-24-00400">Large Language Models' Ability to Assess Main Concepts in Story Retelling: A Proof-of-Concept Comparison of Human Versus Machine Ratings.</a> <br/>
 Jacquie Kurland, Vishnupriya Varadharaju, Anna Liu, Polly Stokes, <b>Ankita Gupta</b>, Marisa Hudspeth, and Brendan O'Connor.<br/>
 American Journal of Speech-Language Pathology. <br/>
 </li>
+    
+    <li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
+      <b>Ankita Gupta</b>, Ethan Zuckerman, Brendan O'Connor.<br/>
+      ACL 2024.<br/>
+      <font color="#FF8096"> Plenary Talk </font> at IC2S2 2024 (2.8% submissions) [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]. <br/>
+    </li>
 
 <li><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/let-me-just-interrupt-you-estimating-gender-effects-in-supreme-court-oral-arguments/4870F0FD3BEF0E00AF46F8D64EDA2289#%3E">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
 Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
@@ -50,12 +43,6 @@ Presence of Naturally Occurring Variations.</a><br/>
 <b>Ankita Gupta</b>, Chulaka Gunasekara, Hui Wan, Jatin Ganhotra, Sachindra Joshi, Marina Danilevsky.<br/>
    NLP for Conversational AI, ACL 2024 (oral). 
 </li>
-    
-<li><a href="http://arxiv.org/abs/2404.15565">CASPR: Automated Evaluation Metric for Contrastive Summarization.</a><br/>
-  Nirupan Ananthamurugan, Dat Duong, Philip George, <b>Ankita Gupta</b>,<sup>*</sup> Sandeep Tata, Beliz Gunel.<br/>
-  arXiv preprint, 2024.<br/>
-  <sup>*</sup>Mentoring for <a href="https://sites.google.com/umass.edu/compsci696ds-spring2023/">COMPSCI 696DS</a>
-</li>
 
 <li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor.<br/>
@@ -67,6 +54,19 @@ Presence of Naturally Occurring Variations.</a><br/>
 <li><a href="https://arxiv.org/abs/2210.13746">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
       Marzena Karpinska, Nishant Raj, Katherine Thai, Yixiao Song, <b>Ankita Gupta</b>, Mohit Iyyer<br/>
       EMNLP 2022.<br/></li>
+      
+  <li><a href="https://arxiv.org/pdf/2212.14486.pdf">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
+      <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, Brendan O'Connor.<br/>
+      NLP+CSS, EMNLP 2022 [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>].<br/>
+      Preliminary version presented at <a href="https://tada2021.org/">Text as Data </a> 2021 [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>].<br/>
+  </li>
+
+    
+<li><a href="http://arxiv.org/abs/2404.15565">CASPR: Automated Evaluation Metric for Contrastive Summarization.</a><br/>
+  Nirupan Ananthamurugan, Dat Duong, Philip George, <b>Ankita Gupta</b>,<sup>*</sup> Sandeep Tata, Beliz Gunel.<br/>
+  arXiv preprint, 2024.<br/>
+  <sup>*</sup>Mentoring for <a href="https://sites.google.com/umass.edu/compsci696ds-spring2023/">COMPSCI 696DS</a>
+</li>
 
 <li><a href="https://www.aclweb.org/anthology/2020.semeval-1.236.pdf">Ensemble Architecture for Fine-Tuned Propaganda Detection in News Articles.</a><br/>
       Mayank Raj, Ajay Jaiswal, <b>Ankita Gupta</b>, Sudeep Kumar Sahoo, Vertika Srivastava, Yeon Hyang Kim<br/>
