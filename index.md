@@ -13,7 +13,12 @@
 <col width="150px">
 <col width="650px">
 <tr>
-    <td> June 2025 </td>
+    <td> December 2025 </td>
+    <td> Gave a talk on understanding argumentative texts at scale at Emma Pierson's group, UC Berkeley! </td> </td>
+</tr>
+<tr>
+<tr>
+    <td> October 2025 </td>
     <td> Presented our work on <a href="https://openreview.net/forum?id=rYNIJWvm8o">cross-corpora argument analysis</a> at <a href="https://sites.google.com/view/nlpor2025/home">NLPOR, COLM 2025</a>! [<a href="https://docs.google.com/presentation/d/1ChY8Y6MUGT5ITtOUjRe7JtZ2ZZYEraW7mu-JUVDc2eg/edit?usp=sharing">poster</a>]</td> </td>
 </tr>
 <tr>
