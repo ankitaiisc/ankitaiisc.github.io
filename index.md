@@ -18,7 +18,7 @@
 <col width="650px">
 <tr>
     <td> December 2025 </td>
-    <td> Gave a talk on understanding argumentative reasoning at scale in high-stakes social decision settings at Emma Pierson's group, UC Berkeley! </td> </td>
+    <td> Gave a talk on understanding argumentative reasoning at scale in high-stakes social decision settings at Emma Pierson's group, UC Berkeley! </td>
 </tr>
 <tr>
     <td> October 2025 </td>
