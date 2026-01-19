@@ -14,6 +14,10 @@
 <col width="650px">
 <tr>
     <td> June 2025 </td>
+    <td> Presented our work on <a href="https://openreview.net/forum?id=rYNIJWvm8o">cross-corpora argument analysis</a> at <a href="https://sites.google.com/view/nlpor2025/home">NLPOR, COLM 2025</a>! [<a href="https://docs.google.com/presentation/d/1ChY8Y6MUGT5ITtOUjRe7JtZ2ZZYEraW7mu-JUVDc2eg/edit?usp=sharing">poster</a>]</td> </td>
+</tr>
+<tr>
+    <td> June 2025 </td>
     <td> Started my research internship at Microsoft Research NYC with the <a href="https://www.microsoft.com/en-us/research/group/stac-sociotechnical-alignment-center/">STAC</a> and <a href="https://www.microsoft.com/en-us/research/theme/fate/">FATE</a> groups. I will be working with <a href="https://www.microsoft.com/en-us/research/people/alexandrac/">Alex Chouldechva</a> and <a href="https://www.microsoft.com/en-us/research/people/nickpangakis/">Nick Pangakis</a>! </td>
 </tr>
  <tr>
