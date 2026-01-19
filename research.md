@@ -20,13 +20,11 @@
 Jacquie Kurland, Vishnupriya Varadharaju, Anna Liu, Polly Stokes, <b>Ankita Gupta</b>, Marisa Hudspeth, and Brendan O'Connor.<br/>
 American Journal of Speech-Language Pathology. <br/>
 </li>
-    
-    <li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
-      <b>Ankita Gupta</b>, Ethan Zuckerman, Brendan O'Connor.<br/>
-      ACL 2024.<br/>
-      <font color="#FF8096"> Plenary Talk </font> at IC2S2 2024 (2.8% submissions) [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]. <br/>
-    </li>
-
+<li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
+  <b>Ankita Gupta</b>, Ethan Zuckerman, Brendan O'Connor.<br/>
+  ACL 2024.<br/>
+  <font color="#FF8096"> Plenary Talk </font> at IC2S2 2024 (2.8% submissions) [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]. <br/>
+</li>
 <li><a href="https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/let-me-just-interrupt-you-estimating-gender-effects-in-supreme-court-oral-arguments/4870F0FD3BEF0E00AF46F8D64EDA2289#%3E">"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.</a><br/>
 Erica Cai, <b>Ankita Gupta</b>, Katherine Keith, Brendan O'Connor, Douglas R. Rice.<br/>
 Journal of Law and Courts 2024.<br/>
