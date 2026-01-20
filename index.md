@@ -8,7 +8,7 @@
 
 <p align="justify"> In the past, I worked with the India Machine Learning team at <a href="https://www.amazon.science/">Amazon</a>, and the Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research</a>. I completed my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was advised by <a href="https://ee.iisc.ac.in/sastry-p-s/">P.S. Sastry</a> and <a href="https://ee.iisc.ac.in/~gurunath/">Gurunath Gurrala</a>.</p>
 
-<p align="justify"><strong>I am on the job market for positions starting in Fall 2026!</strong> If you think a position would be a good fit, please do reach out. Here are my materials: <a href="https://ankitaiisc.github.io/assets/Ankita_Gupta_Research_Statement.pdf">research statement</a>, <a href="https://ankitaiisc.github.io/assets/Ankita_Gupta_Teaching_Statement.pdf">teaching and mentoring statement</a>.</p> 
+<p align="justify"><strong>I am on the academic and industry job market for positions starting in Fall 2026!</strong> If you think a position would be a good fit, please do reach out. Here are my materials: <a href="https://ankitaiisc.github.io/assets/Ankita_Gupta_Research_Statement.pdf">research statement</a>, <a href="https://ankitaiisc.github.io/assets/Ankita_Gupta_Teaching_Statement.pdf">teaching and mentoring statement</a>.</p> 
 
 <b> Recent News</b>
  
