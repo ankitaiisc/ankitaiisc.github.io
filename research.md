@@ -4,14 +4,14 @@
 
 ## Publications
 <ul>
-    <li><a href="https://github.com/slanglab/deltastance/tree/main?tab=readme-ov-file">δ-Stance: A large-scale real-world dataset of stances in legal argumentation.</a><br/>
+    <li><a href="https://aclanthology.org/2025.acl-long.1517/">δ-Stance: A large-scale real-world dataset of stances in legal argumentation.</a><br/>
       <b>Ankita Gupta</b>, Douglas Rice, Brendan O'Connor.<br/>
-      ACL 2025.<br/>
+      ACL 2025. [<a href="https://github.com/slanglab/deltastance/tree/main?tab=readme-ov-file">dataset</a>] <br/>
       Preliminary version presented at ACM Symposium on CS&Law 2025 [<a href="https://docs.google.com/presentation/d/1VwMskyXvOU0A10S65H_lJjUGQr5_jXO1PLJNoOBl1gM/edit?usp=sharing">slides</a>]. <br/>
     </li>
-    <li>Automated main concept generation for narrative discourse assessment in aphasia.<br/>
+    <li><a href="https://aclanthology.org/2025.findings-acl.1255/"> Automated main concept generation for narrative discourse assessment in aphasia.</a><br/>
     <b>Ankita Gupta</b>, Marisa J. Hudspeth, Polly Stokes, Jacquie Kurland, and Brendan O'Connor.<br/>
-    Forthcoming at ACL Findings 2025. <br/>
+    ACL Findings 2025. <br/>
     Forthcoming poster presentation at <a href="https://clinicalaphasiologyconference.org/">CAC 2025</a>. <br/>
     Also presented at <a href="https://sites.google.com/cs.stonybrook.edu/wnu2025?usp=sharing">Workshop on Narrative Understanding, NAACL 2025</a>.<br/>
 </li>
@@ -20,7 +20,7 @@
 Jacquie Kurland, Vishnupriya Varadharaju, Anna Liu, Polly Stokes, <b>Ankita Gupta</b>, Marisa Hudspeth, and Brendan O'Connor.<br/>
 American Journal of Speech-Language Pathology. <br/>
 </li>
-<li><a href="https://ankitaiisc.github.io/images/ArgEx_ACL_2024.pdf">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
+<li><a href="https://aclanthology.org/2024.acl-long.552/">Harnessing Toulmin's theory for zero-shot argument explication.</a><br/>
   <b>Ankita Gupta</b>, Ethan Zuckerman, Brendan O'Connor.<br/>
   ACL 2024.<br/>
   <font color="#FF8096"> Plenary Talk </font> at IC2S2 2024 (2.8% submissions) [<a href="https://ankitaiisc.github.io/images/argex_ic2s2_submission_nonannon_1.pdf">extended abstract</a>]. <br/>
@@ -31,7 +31,7 @@ Journal of Law and Courts 2024.<br/>
 Preliminary version presented at TADA 2022.
 </li>
 
-<li><a href="https://arxiv.org/abs/1908.11443">NarrativeTime: Dense Temporal Annotation on a Timeline.</a><br/>
+<li><a href="https://aclanthology.org/2024.lrec-main.1054/">NarrativeTime: Dense Temporal Annotation on a Timeline.</a><br/>
   Anna Rogers, Marzena Karpinska, <b>Ankita Gupta</b>, Vladislav Lialin, Gregory Smelkov, Anna Rumshisky.<br/>
   LREC-COLING 2024.
 </li>
@@ -42,24 +42,23 @@ Presence of Naturally Occurring Variations.</a><br/>
    NLP for Conversational AI, ACL 2024 (oral). 
 </li>
 
-<li><a href="https://arxiv.org/abs/2210.07188"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
+<li><a href="https://aclanthology.org/2023.findings-eacl.24/"> ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.</a><br/>
      <b>Ankita Gupta</b>, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, Brendan O'Connor.<br/>
     Findings of EACL, 2023.<br/>
     Also presented at <a href="https://sites.google.com/view/crac2023/">CRAC, EMNLP 2023</a> (oral).<br/>
     [<a href="https://ankitaiisc.github.io/images/EACL_poster.pdf">poster</a>] [<a href="https://ankitaiisc.github.io/images/EACL_slides.pdf">slides</a>]
 </li>
 
-<li><a href="https://arxiv.org/abs/2210.13746">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
+<li><a href="https://aclanthology.org/2022.emnlp-main.649/">DEMETR: Diagnosing Evaluation Metrics for Translation.</a><br/>
       Marzena Karpinska, Nishant Raj, Katherine Thai, Yixiao Song, <b>Ankita Gupta</b>, Mohit Iyyer<br/>
       EMNLP 2022.<br/></li>
       
-  <li><a href="https://arxiv.org/pdf/2212.14486.pdf">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
+  <li><a href="https://aclanthology.org/2022.nlpcss-1.11/">Examining Political Rhetoric with Epistemic Stance Detection.</a><br/>
       <b>Ankita Gupta</b>, Su Lin Blodgett, Justin H. Gross, Brendan O'Connor.<br/>
       NLP+CSS, EMNLP 2022 [<a href="https://ankitaiisc.github.io/images/NLP%2BCSS%20Poster.pdf">poster</a>].<br/>
       Preliminary version presented at <a href="https://tada2021.org/">Text as Data </a> 2021 [<a href="https://ankitaiisc.github.io/images/TADA_v3_website.pdf">slides</a>].<br/>
   </li>
 
-    
 <li><a href="http://arxiv.org/abs/2404.15565">CASPR: Automated Evaluation Metric for Contrastive Summarization.</a><br/>
   Nirupan Ananthamurugan, Dat Duong, Philip George, <b>Ankita Gupta</b>,<sup>*</sup> Sandeep Tata, Beliz Gunel.<br/>
   arXiv preprint, 2024.<br/>
