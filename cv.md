@@ -15,7 +15,7 @@ permalink: /cv/
   }
 </style>
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://ankitaiisc.github.io/assets/CV_Ankita_Gupta.pdf" 
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://ankitaiisc.github.io/assets/Ankita_CV_2026_March.pdf" 
         width="100%" 
         height="100vh" 
         style="border: none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;">
