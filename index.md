@@ -6,7 +6,7 @@
 
 <p align="justify"> My research spans machine learning, natural language processing, and computational social science. I focus on evaluating and improving AI for high-stakes decision-making settings such as health, public policy, and law. To this end, I have developed computational methods to transform large-scale, unstructured texts into rich semantic structures to support human decision-making, with a focus on argumentative and narrative texts.
  
-<p align="justify"> During my PhD, I have interned at <a href="https://www.microsoft.com/en-us/research/group/new-york-city/">Microsoft Research</a>, <a href="https://research.ibm.com/">IBM Research</a>, and <a href="https://www.thomsonreuters.com/en/artificial-intelligence.html">Thomson Reuters</a>. Before graduate school, I worked at <a href="https://www.amazon.science/">Amazon</a> and <a href="https://research.samsung.com/sri-b">Samsung Research</a>, and completed my master's at the <a href="https://www.iisc.ac.in/">Indian Institute of Science</a>.</p>
+<p align="justify"> During my PhD, I have interned at <a href="https://www.microsoft.com/en-us/research/group/stac-sociotechnical-alignment-center/">Microsoft Research</a>, <a href="https://research.ibm.com/">IBM Research</a>, and <a href="https://www.thomsonreuters.com/en/artificial-intelligence.html">Thomson Reuters</a>. Before graduate school, I worked at <a href="https://www.amazon.science/">Amazon</a> and <a href="https://research.samsung.com/sri-b">Samsung Research</a>, and completed my master's at the <a href="https://www.iisc.ac.in/">Indian Institute of Science</a>.</p>
 
 <b> Recent News</b>
  
