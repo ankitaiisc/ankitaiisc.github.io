@@ -4,9 +4,9 @@
 
 <p align="justify"> I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst, advised by <a href="http://brenocon.com/">Brendan O'Connor</a>. I'm a member of the <a href="https://slanglab.cs.umass.edu/">SLANG Lab</a> and the larger <a href="https://nlp.cs.umass.edu/">UMass NLP group</a>. I am grateful to have been supported by an <a href="https://research.ibm.com/university/awards/fellowships-awardees.html">IBM PhD Fellowship Award 2023-2024</a>.</p>
 
-<p align="justify"> My research is in the area of machine learning, natural language processing, and computational social science. I focus on understanding and improving the impact of AI in high-stakes decision-making settings. To this end, I develop computational methods to understand and model complex reasoning patterns and rich semantic structures embedded in argumentative and narrative texts.
-
-<p align="justify"> In the past, I worked with the India Machine Learning team at <a href="https://www.amazon.science/">Amazon</a>, and the Advanced Technology Lab at <a href="https://research.samsung.com/sri-b">Samsung Research</a>. I completed my ME from <a href="https://www.iisc.ac.in/"> Indian Institute of Science</a>, where I was advised by <a href="https://ee.iisc.ac.in/sastry-p-s/">P.S. Sastry</a> and <a href="https://ee.iisc.ac.in/~gurunath/">Gurunath Gurrala</a>.</p>
+<p align="justify"> My research spans machine learning, natural language processing, and computational social science. I focus on evaluating and improving AI for high-stakes decision-making settings such as health, public policy, and law. To this end, I have developed computational methods to transform large-scale, unstructured texts into rich semantic structures to support human decision-making, with a focus on argumentative and narrative texts.
+ 
+<p align="justify"> During my PhD, I have interned at <a href="https://www.microsoft.com/en-us/research/group/new-york-city/">Microsoft Research</a>, <a href="https://research.ibm.com/">IBM Research</a>, and <a href="https://www.thomsonreuters.com/en/artificial-intelligence.html">Thomson Reuters</a>. Before graduate school, I worked at <a href="https://www.amazon.science/">Amazon</a> and <a href="https://research.samsung.com/sri-b">Samsung Research</a>, and completed my master's at the <a href="https://www.iisc.ac.in/">Indian Institute of Science</a>.</p>
 
 <b> Recent News</b>
  
@@ -15,8 +15,8 @@
 <col width="150px">
 <col width="650px">
 <tr>
-    <td> December 2025 </td>
-    <td> Gave a talk at Emma Pierson's group, UC Berkeley, on understanding argumentative reasoning in high-stakes social settings. </td>
+    <td> July 2026 </td>
+    <td> Our work on temporal coherence analysis of discourse in aphasia assessment using large language models was accepted to the <a href="https://academyofaphasia2026.vfairs.com/">Academy of Aphasia 2026</a>. </td>
 </tr>
 <tr>
     <td> October 2025 </td>
