@@ -4,6 +4,21 @@
 
 ## Publications
 <ul>
+    <li>	
+Automated Hypothesis Discovery for Characterizing Annotation Disagreement.<br/>
+      <b>Ankita Gupta</b>, Alex Chouldechova, P. Alex Dow, Miroslav Dudík, Jean Garcia-Gathright, Hanna Wallach, Nicholas Pangakis.<br/>
+      Forthcoming at NeurIPS 2026. <br/>
+    </li>
+    <li>	
+<a href="https://arxiv.org/abs/2609.13520">From Token Probabilities to Semantic Constraints: Towards Declarative Probabilistic Evaluation of Language Models.</a><br/>
+      Kyle Richardson, Cullen Anderson, Pranav Balakrishnan, Takuto Ban, Daksha Ladia, <b>Ankita Gupta</b>, Marisa Hudspeth.<br/>
+      EMNLP 2026. <br/>
+    </li>
+    <li>Automated temporal coherence analysis of discourse in aphasia assessment
+using large language models.<br/>
+      <b>Ankita Gupta</b>, Jacquie Kurland, Polly Stokes, and Brendan O’Connor.<br/>
+      Academy of Aphasia 2026. <br/>
+    </li>
     <li><a href="https://aclanthology.org/2025.acl-long.1517/">δ-Stance: A large-scale real-world dataset of stances in legal argumentation.</a><br/>
       <b>Ankita Gupta</b>, Douglas Rice, Brendan O'Connor.<br/>
       ACL 2025. [<a href="https://github.com/slanglab/deltastance/tree/main?tab=readme-ov-file">dataset</a>] <br/>
